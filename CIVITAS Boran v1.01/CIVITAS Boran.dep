@@ -451,15 +451,11 @@
 		</Element>
 		<Element>
 			<ArtDefPath text="Landmarks.artdef"/>
-			<ArtDefDependencyPaths>
-				<Element text="Landmarks.artdef"/>
-			</ArtDefDependencyPaths>
+			<ArtDefDependencyPaths/>
 		</Element>
 		<Element>
 			<ArtDefPath text="StrategicView.artdef"/>
-			<ArtDefDependencyPaths>
-				<Element text="StrategicView.artdef"/>
-			</ArtDefDependencyPaths>
+			<ArtDefDependencyPaths/>
 		</Element>
 		<Element>
 			<ArtDefPath text="Buildings.artdef"/>
